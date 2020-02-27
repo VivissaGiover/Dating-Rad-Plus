@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 31: expected statement.
+    now = "ellie"
+        ^
+
+File "game/script.rpy", line 33: expected statement.
+    now = "tyler"
+        ^
+
+File "game/script.rpy", line 36: expected statement.
+    now = "j"
+        ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Wed Feb 26 22:34:32 2020
